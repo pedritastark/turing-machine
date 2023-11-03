@@ -53,7 +53,7 @@ Now we can easly build all the function that compose the turing machine.
 
 # Licence
 
-'turing-machine' is released under the Apache License Version 2, which is an open source license. You may contribute to this project, or use the code as you please as long as you adhere to its conditions. 
+'turing-machine' is released under the Apache License Version 2, which is an open source license. You may contribute to this project.
 
 
          
